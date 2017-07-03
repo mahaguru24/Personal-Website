@@ -1,0 +1,12 @@
+.ability-title {
+  display: inline-block;
+  width: 60%;
+}
+
+span.glyphicon.filled {
+  color: orange;
+}
+
+span.glyphicon-star {
+  color: #faf2cc;
+}
